@@ -23,7 +23,9 @@
 			?>
 		<div class="orderarea">
 		<!-- This is where we'll put our form -->
-		
+	        <form action="submit.php" method="post">
+			<input type=”enter a type here from below” name=”somename”>
+		</form>	
 		
 		</div>
 			
